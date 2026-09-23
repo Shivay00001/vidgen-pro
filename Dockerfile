@@ -4,5 +4,5 @@ COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 ENV PYTHONUNBUFFERED=1
-EXPOSE 8000
-CMD ["python", "main.py"]
+EXPOSE 8501
+CMD ["streamlit", "run", "vidgen_pro/ui/app.py", "--server.address", "0.0.0.0", "--server.port", "8501"]
