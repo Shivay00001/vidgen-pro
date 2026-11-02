@@ -48,3 +48,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📝 License
 
 This project is licensed under standard terms.
+
+## Built by VisionQuantech
+
+Part of the [VisionQuantech](https://visionquantech.com/) AI automation studio. See [AI voice agents](https://visionquantech.com/ai-voice-agents) and the guide to [AI phone answering for real estate agents](https://visionquantech.com/blog/ai-phone-answering-service-for-real-estate-agents).
